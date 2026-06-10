@@ -1,0 +1,16 @@
+{
+  "name": "chaibackend_project1",
+  "version": "1.0.0",
+  "description": " backend projectt",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "vasudev agnihitri",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
